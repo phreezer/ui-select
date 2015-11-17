@@ -1,15 +1,14 @@
 {
 	"name": "ui-select",
-	"main": "ui-select.js",
+	"main": [
+		"./ui-select.css",
+		"./ui-select.js"
+	],
 	"version": "0.0.1",
 	"authors": [
     "Marcus Heath Showalter <marcus.showalter@gmail.com>"
   ],
 	"description": "Angular UI Select",
-	"main": [
-	"./ui-select.css",
-	"./ui-select.js"
-],
 	"moduleType": [],
 	"license": "MIT",
 	"homepage": "",
