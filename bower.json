@@ -1,16 +1,20 @@
 {
-  "name": "ui-select",
-  "main": "ui-select.js",
-  "version": "0.0.1",
-  "authors": [
+	"name": "ui-select",
+	"main": "ui-select.js",
+	"version": "0.0.1",
+	"authors": [
     "Marcus Heath Showalter <marcus.showalter@gmail.com>"
   ],
-  "description": "Angular UI Select",
-  "moduleType": [],
-  "license": "MIT",
-  "homepage": "",
-  "private": true,
-  "ignore": [
+	"description": "Angular UI Select",
+	"main": [
+	"./ui-select.css",
+	"./ui-select.js"
+],
+	"moduleType": [],
+	"license": "MIT",
+	"homepage": "",
+	"private": true,
+	"ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
