@@ -1,8 +1,7 @@
 {
 	"name": "ui-select",
 	"main": [
-		"./ui-select.css",
-		"./ui-select.js"
+		"./ui-select.css"
 	],
 	"version": "0.0.1",
 	"authors": [
